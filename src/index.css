@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #9f4257;
+    --color-secondary: #8d859d;
+    --color-tertiary: #5d3418;
+    --color-brand-bg: #e7e3e5;
+    --color-pink-bg: #ff92aa;
+    --color-purple-bg: #9b91a9;
+    --color-text-secundary: #f1e0ce;
+
+    --font-aeonik: "Aeonik", sans-serif;
+    --font-thunderhouse: "Thunderhouse", serif;
+}
+
+@font-face {
+    font-family: "Aeonik";
+    src: url("/fonts/Aeonik-Light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Aeonik";
+    src: url("/fonts/Aeonik-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Aeonik";
+    src: url("/fonts/Aeonik-Medium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Aeonik";
+    src: url("/fonts/Aeonik-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Thunderhouse";
+    src: url("/fonts/thunderhouse.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
