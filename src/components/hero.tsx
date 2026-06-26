@@ -1,4 +1,4 @@
-import hero from "../assets/hero.webp";
+import hero from "../assets/hero_2.webp";
 import { Band } from "./band";
 
 export const Hero = () => {

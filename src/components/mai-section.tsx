@@ -9,21 +9,25 @@ export const MaiSection = () => {
             Coelho
           </h2>
 
-          <p className="mt-5 text-[1rem] leading-[1.15] uppercase text-[#3b241d]">
-            Lorem ipsum simplesmente uma simulação de texto da indústria
-            tipográfica e de impressos, e vem sendo utilizado desde o século
-            XVI, quando um impressor desconhecido pegou uma bandeja de tipos e
-            embaralhou para fazer um livro de modelos de tipos. Lorem ipsum
-            sobreviveu não só a cinco séculos, como também ao salto para a
-            editoração eletrônica, permanecendo essencialmente inalterado. Se
-            popularizou na década de 60, quando a Letraset lançou decalques
-            contendo passagens de Lorem Ipsum e mais recentemente quando passou
-            a ser integrado a softwares de editoração eletrônica como Aldus
-            PageMaker.
+          <p className="mt-5 text-[0.875rem] leading-[1.2] uppercase text-[#3b241d] max-w-sm">
+            Maiara Coelho é cantora e compositora catarinense, natural de
+            Palhoça (SC), com uma trajetória iniciada em 2008. Em agosto de
+            2026, celebra 18 anos de carreira, consolidando seu nome como uma
+            das principais vozes do sertanejo em Santa Catarina.
+            <br />
+            <br />
+            Ao longo dessa trajetória, dividiu palco com grandes nomes da música
+            brasileira, como Zezé Di Camargo & Luciano, Chitãozinho & Xororó,
+            Daniel, Henrique & Juliano, Marília Mendonça, Maiara & Maraisa,
+            Simone Mendes e Gusttavo Lima, entre outros.
+            <br />
+            <br />O Texas Sunset by Maiara Coelho marca a celebração dos seus 18
+            anos de carreira, reunindo música, experiências e a essência da
+            artista em um festival country inédito.
           </p>
         </div>
 
-        <div className="flex flex-col items-center justify-center">
+        <div className="flex flex-col items-center justify-center -mb-5">
           <div className="flex w-full items-center justify-center rounded-[18px] bg-primary shadow-[0_12px_30px_rgba(0,0,0,0.08)] md:h-95 md:max-w-85">
             <span className="font-aeonik text-lg uppercase tracking-wide text-white md:text-xl">
               FOTOS MAI
